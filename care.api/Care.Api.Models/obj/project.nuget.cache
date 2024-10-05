@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOT6xvwspu/xSZgn6eilOJn6q+UNeICQOSuCjLy2KUhHqcn3Z7C8/sE37aRrxR6RzPIRtQg6ew5Nwd2aQP14RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Palom\\Downloads\\care.api\\care.api\\Care.Api.Models\\Care.Api.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Palom\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\Palom\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

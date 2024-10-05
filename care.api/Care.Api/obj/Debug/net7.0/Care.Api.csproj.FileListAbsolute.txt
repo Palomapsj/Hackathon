@@ -1,0 +1,8 @@
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.csproj.AssemblyReference.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.AssemblyInfoInputs.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.AssemblyInfo.cs
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.csproj.CoreCompileInputs.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.RazorAssemblyInfo.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api\obj\Debug\net7.0\Care.Api.RazorAssemblyInfo.cs

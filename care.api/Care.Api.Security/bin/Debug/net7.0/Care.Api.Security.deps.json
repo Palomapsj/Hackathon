@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Care.Api.Security/1.0.0": {
+        "runtime": {
+          "Care.Api.Security.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Care.Api.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

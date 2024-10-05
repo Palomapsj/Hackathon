@@ -1,0 +1,5 @@
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Business\obj\Debug\net7.0\Care.Api.Business.csproj.AssemblyReference.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Business\obj\Debug\net7.0\Care.Api.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Business\obj\Debug\net7.0\Care.Api.Business.AssemblyInfoInputs.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Business\obj\Debug\net7.0\Care.Api.Business.AssemblyInfo.cs
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Business\obj\Debug\net7.0\Care.Api.Business.csproj.CoreCompileInputs.cache

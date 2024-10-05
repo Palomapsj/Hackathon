@@ -1,0 +1,17 @@
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\bin\Debug\net7.0\Care.Api.Repository.deps.json
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\bin\Debug\net7.0\Care.Api.Repository.dll
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\bin\Debug\net7.0\Care.Api.Repository.pdb
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\bin\Debug\net7.0\Care.Api.Context.dll
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\bin\Debug\net7.0\Care.Api.Models.dll
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\bin\Debug\net7.0\Care.Api.Context.pdb
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\bin\Debug\net7.0\Care.Api.Models.pdb
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.csproj.AssemblyReference.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.AssemblyInfoInputs.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.AssemblyInfo.cs
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.csproj.CopyComplete
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.dll
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\refint\Care.Api.Repository.dll
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\Care.Api.Repository.pdb
+C:\Users\Palom\Downloads\care.api\care.api\Care.Api.Repository\obj\Debug\net7.0\ref\Care.Api.Repository.dll
